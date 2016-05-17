@@ -13,6 +13,7 @@ JMC (Mission Control) + JFR (Flight Records). Работает только на
 # Самообучение
 ## Алгоритмы и структуры данных
 [Algorithm Design Manual by Steven Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena-ebook/dp/B00B8139Z8?ie=UTF8)
+
 Курсы на курсере:
 * [Алгоритмы, часть первая](https://www.coursera.org/course/algs4partI)
 * [Алгоритмы, часть вторая](https://www.coursera.org/course/algs4partII)
