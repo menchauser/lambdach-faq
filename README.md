@@ -10,6 +10,10 @@ JMC (Mission Control) + JFR (Flight Records). Работает только на
 ```
 Для анализа результатов и хотспотов удобно использовать https://github.com/chrishantha/jfr-flame-graph
 
+# Самообучение
+## Алгоритмы и структуры данных
+Скиена, Algorithm Design Manual
+
 # Самоорганизация и прочее
 ## Что почитать эффективного про это?
 На Coursera есть хороший курс [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn/home/info?source=cdpv2) о организации в самообучении.
